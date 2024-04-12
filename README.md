@@ -2,5 +2,5 @@
 
 This repo maintains codes that may be frequently used. 
 
-- [ ] nerf
+- [x] nerf
 - [ ] point cloud visualization
